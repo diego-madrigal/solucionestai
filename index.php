@@ -109,6 +109,7 @@
     <!-- Slider productos estrella -->
     
     <div class="container d-none d-lg-block">
+        <h5>Portafolio</h5>
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -166,20 +167,20 @@
         <!-- Features Section -->
         <div class="row">
             <div class="col-lg-6">
-                <h2>No lo pienses mas contáctanos</h2>
+                <h2>No lo pienses más contáctanos</h2>
                 <p>DIRECCIÓN :<br>
                     Periférico paseo de la república #4076 Fracc. Jardines de la Loma.<br>
                     <br>
                     E-MAIL :<br>
-                    solucionestai@hotmail.com <br>
-                    efuentesr08@hotmail.com <br>
+                    <a href="mailto:solucionestai@hotmail.com">solucionestai@hotmail.com</a> <br>
+                    <a href="mailto:efuentesr08@hotmail.com">efuentesr08@hotmail.com</a><br>
                     <br>
                     TELÉFONOS: <br>
-                    (443) 3085990 <br>
-                    (443) 6901909 <br>
+                    <a href="tel:+4433085990">(443) 308 5990</a><br>
+                    <a href="tel:+4436901909">(443) 690 1909</a><br>
                     <br>
                     WhatsApp: <br>
-                    4431724242</p>
+                    <a href="https://wa.me/4431724242" target="_blank">4431724242</a></p>
             </div>
             <div class="col-lg-6 d-none d-lg-block">
                 <iframe
