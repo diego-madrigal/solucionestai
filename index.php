@@ -109,7 +109,7 @@
     <!-- Slider productos estrella -->
     
     <div class="container d-none d-lg-block">
-        <h5>Portafolio</h5>
+        <h3>Portafolio</h3>
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -355,7 +355,7 @@
     <script>
     var pagina = window.location.pathname;
     $(document).ready(function() {
-        if (pagina == "/solucionestai/soluciones/" || pagina == "/solucionestai/soluciones/index.php") {
+        if (pagina == "/solucionestai/soluciones/" || pagina == "/solucionestai/soluciones/index.php" || pagina == "/solucionestai/soluciones/index") {
             $("#link-inicio").addClass("active");
         } else {
             $("#link-inicio").removeClass("active");

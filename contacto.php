@@ -12,7 +12,25 @@
     <!-- IMPORTACION DE CABECERA -->
     <?php include_once("partials/header.php"); ?>
 
-    
+    <!-- CONTENIDO DE LA PÁGINA -->
+    <div class="container">
+        <br>
+        <h1>Envíanos un mensaje</h1><br>
+        <div class="col-6">
+            <form action="" method="post">
+                <label for="nombre">Escribe tu nombre:</label>
+                <input type="text" id="nombre" class="form-control" placeholder="Nombre">
+                <label for="email">Correo electrónico</label>
+                <input type="text" id="email" class="form-control" placeholder="Correo electrónico">
+                <label for="comentario">Comentarios</label>
+                <textarea name="comentario" id="comentario" cols="30" rows="10" class="form-control"></textarea><br>
+                <center>
+                    <input type="reset" value="Limpiar" class="btn bg-secondary text-white">
+                    <input type="submit" value="Enviar" class="btn bg-primary text-white">
+                </center>
+            </form>
+        </div>
+    </div>
     <!-- SCRIPTS -->
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
@@ -20,7 +38,7 @@
         
         var pagina = window.location.pathname;
         $(document).ready(function(){
-            if(pagina == "/solucionestai/soluciones/contacto" || pagina == "/solucionestai/soluciones/contacto.php"){
+            if(pagina == "/solucionestai/soluciones/contacto" || pagina == "/solucionestai/soluciones/contacto.php" ){
                 $("#link-contacto").addClass("active");
             }else{
                 $("#link-contacto").removeClass("active");
