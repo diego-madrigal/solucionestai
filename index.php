@@ -9,9 +9,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.css">
 </head>
 <body>
-    <script>
-        
-    </script>
+    <!-- IMPORTACION DE CABECERA -->
     <?php include_once("partials/header.php"); ?>
 
     <!-- SCRIPTS -->
@@ -26,7 +24,11 @@
             }else{
                 $("#link-inicio").removeClass("active");
             }
-        });
+        }); 
     </script>
 </body>
+<br>
+<br>
+<br>
+<?php include_once("partials/footer.php");?>
 </html>
