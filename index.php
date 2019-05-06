@@ -9,11 +9,24 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.css">
 </head>
 <body>
+    <script>
+        
+    </script>
     <?php include_once("partials/header.php"); ?>
 
     <!-- SCRIPTS -->
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    
+    <script>
+        
+        var pagina = window.location.pathname;
+        $(document).ready(function(){
+            if(pagina == "/solucionestai/soluciones/" || pagina == "/solucionestai/soluciones/index.php"){
+                $("#link-inicio").addClass("active");
+            }else{
+                $("#link-inicio").removeClass("active");
+            }
+        });
+    </script>
 </body>
 </html>
