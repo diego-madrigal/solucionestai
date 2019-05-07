@@ -1,3 +1,19 @@
+<?php
+    #
+    #   INICIO - SOLUCIONESTAI
+    #   
+    #   CODIGO ESCRITO POR: ARTURO ANDRADE
+    #   
+    #   ======================================================================
+    #
+    #   ESTANCIA Y ESTADÍA EN SECTOR PRODUCTIVO
+    #   UNIVERSIDAD TECNOLÓGICA DE MORELIA
+    #   TECNOLOGÍAS DE LA INFORMACIÓN Y LA COMUNICACIÓN
+    #   AREA DE SISTEMAS INFORMÁTICOS
+    #
+
+?>
+
 <!DOCTYPE html>
 <html lang="es">
 
