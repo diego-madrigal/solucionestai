@@ -72,6 +72,7 @@
 
             .datos{
                 margin-bottom: 15px;
+                text-align: center;
             }
         }
     
@@ -124,7 +125,7 @@
                             <a href="mailto:solucionestai@hotmail.com">solucionestai@hotmail.com</a><br>
                             <a href="mailto:efuentesr08@hotmail.com">efuentesr08@hotmail.com</a>
                         </div>
-                        <div class="col-md-5">
+                        <div class="col-md-5 datos">
                             <h5>Telefono:</h5>
                             <a href="tel:+4433085990">(443) 308 5990</a><br>
                             <a href="tel:+4436901909">(443) 690 1909</a>
@@ -146,7 +147,7 @@
                         <a href="https://www.messenger.com/t/310907603104" target="_blank"><i class="fab fa-facebook-messenger"></i></a>
                         <a href="https://wa.me/4431724242" target="_blank"><i class="fab fa-whatsapp"></i></a>
                     </center>
-                    </div>|
+                    </div>
                 </div>
             </div>
         </div>
