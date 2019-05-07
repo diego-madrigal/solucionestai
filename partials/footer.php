@@ -1,3 +1,19 @@
+<?php
+    #
+    #   PIE DE PAGINA - SOLUCIONESTAI
+    #   
+    #   CODIGO ESCRITO POR: DIEGO ALAN MADRIGAL
+    #   MANTENIDO POR: ARTURO ANDRADE
+    #   
+    #   ======================================================================
+    #
+    #   ESTANCIA Y ESTADÍA EN SECTOR PRODUCTIVO
+    #   UNIVERSIDAD TECNOLÓGICA DE MORELIA
+    #   TECNOLOGÍAS DE LA INFORMACIÓN Y LA COMUNICACIÓN
+    #   AREA DE SISTEMAS INFORMÁTICOS
+    #
+
+?>
 <div class="block block-pd-sm bg-primary">
     <div class="container">
         <div class="row">

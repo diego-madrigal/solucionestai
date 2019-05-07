@@ -1,6 +1,18 @@
-<style>
+<?php
+    #
+    #   CABECERA - SOLUCIONESTAI
+    #   
+    #   CODIGO ESCRITO POR: ARTURO ANDRADE
+    #   
+    #   ======================================================================
+    #
+    #   ESTANCIA Y ESTADÍA EN SECTOR PRODUCTIVO
+    #   UNIVERSIDAD TECNOLÓGICA DE MORELIA
+    #   TECNOLOGÍAS DE LA INFORMACIÓN Y LA COMUNICACIÓN
+    #   AREA DE SISTEMAS INFORMÁTICOS
+    #
 
-</style>
+?>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <a class="navbar-brand" href="#">Solucionestai</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
