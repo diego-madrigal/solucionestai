@@ -32,8 +32,7 @@
                     <label for="comentario">Comentarios</label>
                     <textarea name="comentario" id="comentario" cols="30" rows="10" class="form-control"></textarea><br>
                     <center>
-                        <input type="reset" value="Limpiar" class="btn bg-secondary text-white">
-                        <input type="submit" value="Enviar" class="btn bg-primary text-white">
+                        <input type="submit" value="Enviar" name"enviar" id="enviar" class="btn bg-success text-white" style="width: 100%;">
                     </center>
                 </form>
             </div>
@@ -58,6 +57,8 @@
         } else {
             $("#link-contacto").removeClass("active");
         }
+
+       
     });
     </script>
 </body>
