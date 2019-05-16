@@ -37,3 +37,21 @@
     </div>
 </nav>
 
+<!-- ESTILO SCROLL BAR -->
+<style>
+    ::-webkit-scrollbar {
+        width: 10px;
+        background-color: transparent;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        width: 10px;
+        background-color: #343a40;
+        border-radius: 4px;
+    }
+
+    ::-webkit-scrollbar-track{
+        background-color: transparent !important;
+    }
+    
+</style>
